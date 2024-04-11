@@ -1,0 +1,6 @@
+- Reflexion: Language Agents with Verbal Reinforcement Learning
+- https://github.com/noahshinn024/reflexion
+	- 1.9k stars
+- NeurIPS 2023
+- [[2303.11366 Reflexion.pdf]]
+- 

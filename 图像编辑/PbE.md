@@ -1,0 +1,8 @@
+- [[2211.13227 Paint by Example.pdf]]
+- [Fantasy-Studio/Paint-by-Example: Paint by Example: Exemplar-based Image Editing with Diffusion Models (github.com)](https://github.com/Fantasy-Studio/Paint-by-Example)
+	- 945 stars
+- 输入
+	- 源图像+指定的要替换的区域
+	- 参考图像，用于填充到上述区域中
+- 输出
+	- 目标图像，指定区域中的内容是源图像

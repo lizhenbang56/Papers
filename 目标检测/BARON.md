@@ -1,0 +1,4 @@
+- [[2302.13996 Aligning Bag of Regions for Open-Vocabulary Object Detection.pdf]]
+- CVPR2024
+- [wusize/ovdet: [CVPR2023] Code Release of Aligning Bag of Regions for Open-Vocabulary Object Detection (github.com)](https://github.com/wusize/ovdet)
+	- 158 stars

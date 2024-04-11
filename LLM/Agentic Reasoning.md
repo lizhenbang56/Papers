@@ -1,0 +1,18 @@
+- [What's next for AI agentic workflows ft. Andrew Ng of AI Fund (youtube.com)](https://www.youtube.com/watch?v=sal78ACtGTc)
+- 红杉资本
+- 吴恩达
+### Agentic Reasoning 的四种设计模式
+- robust technology
+	- Reflection 反思
+		- [[Self-Refine]]
+		- [[Reflexion]]
+	- Tool use
+		- [[Gorilla]]
+		- [[MM-ReAct]]
+- emerging technology
+	- Planning
+		- [[Chain-of-Thought Prompting Elicits Reasoning in Large Language Models]]
+		- [[HuggingGPT]]
+	- Multi-agent collaboration
+		- [[Communicative Agents for Software Development]]
+		- [[AutoGen]]

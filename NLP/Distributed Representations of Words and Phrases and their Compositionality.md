@@ -1,0 +1,4 @@
+- 谷歌 Jeffrey Dean
+- skip gram model 可以将单词转化为向量
+- 词向量非常有趣，例如，计算结果 vec(“Madrid”) - vec(“Spain”) + vec(“France”) 与 vec(“Paris”) 的距离比与其他任何单词向量 的距离都要近。
+- 本文改进了 skip-gram model
