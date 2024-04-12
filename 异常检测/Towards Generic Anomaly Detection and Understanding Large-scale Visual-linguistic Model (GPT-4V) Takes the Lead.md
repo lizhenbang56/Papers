@@ -1,8 +1,12 @@
-- [arxiv.org/pdf/2311.02782.pdf](https://arxiv.org/pdf/2311.02782.pdf)
-- 迈向通用异常检测和理解：大规模视觉语言模型 (GPT-4V) 处于领先地位
-- [caoyunkang/GPT4V-for-Generic-Anomaly-Detection: [Arxiv] Towards Generic Anomaly Detection and Understanding: Large-scale Visual-linguistic Model (GPT-4V) Takes the Lead. (github.com)](https://github.com/caoyunkang/GPT4V-for-Generic-Anomaly-Detection)
-	- 81 stars
-
+---
+创新点: GPT-4V能够执行各种异常检测任务：工业、医疗、逻辑、视频、3D 异常检测
+文档链接: https://arxiv.org/pdf/2311.02782.pdf
+Year: "2023"
+Month: "11"
+Stars: "81"
+代码: github.com/caoyunkang/GPT4V-for-Generic-Anomaly-Detection
+不足: 未进行定量评估
+---
 # 摘要 
 
 异常检测是跨不同领域和数据类型的一项关键任务。然而，现有的异常检测模型通常是针对特定领域和模式设计的。本研究探索使用 GPT-4V(ision)（一种强大的视觉语言模型）以通用方式解决异常检测任务。我们研究了 GPT-4V 在多模态、多域异常检测任务中的应用，包括图像、视频、点云和时间序列数据，跨多个应用领域，如工业、医疗、逻辑、视频、3D 异常检测和定位任务。为了增强 GPT-4V 的性能，我们结合了不同类型的附加提示，例如类别信息、人类专业知识和参考图像作为提示。根据我们的实验，GPT-4V 被证明在零/单次异常检测中检测和解释全局和细粒度语义模式方面非常有效。这使得能够准确区分正常和异常情况。尽管我们在本研究中进行了广泛的评估，但未来的评估仍有空间，可以从不同方面进一步利用 GPT-4V 的通用异常检测能力。其中包括探索定量指标、扩大评估基准、纳入多轮交互以及纳入人类反馈循环。尽管如此，GPT-4V 在通用异常检测和理解方面表现出了良好的性能，从而为异常检测开辟了一条新途径。所有评估样本，包括图像和文本提示，均可在 https://github.com/caoyungang/GPT4V-for-Generic-Anomaly-Detection 上获取。

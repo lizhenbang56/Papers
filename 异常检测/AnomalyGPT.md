@@ -1,6 +1,13 @@
-- [[2308.15366 AnomalyGPT.pdf]]
-- [CASIA-IVA-Lab/AnomalyGPT: [AAAI 2024 Oral] AnomalyGPT: Detecting Industrial Anomalies Using Large Vision-Language Models (github.com)](https://github.com/CASIA-IVA-Lab/AnomalyGPT)
-- AAAI2024
+---
+Publish: AAAI2024
+Year: "2023"
+Month: "08"
+文档链接: "[[2308.15366 AnomalyGPT.pdf]]"
+代码: https://github.com/CASIA-IVA-Lab/AnomalyGPT
+Stars: "523"
+I-AUROC-MVTecAD-4shot: "96.3"
+创新点: 基于多模态大模型和上下文学习进行异常检测
+---
 ```mermaid
 graph LR;
 	AnomalyGPT-->上下文学习InContextLearning;
