@@ -35,10 +35,8 @@ for row_id in range(row_num):
     if row_id > 2:
         history += float(data_items[2])
         print(history)
-    if row_id == row_num - 1:
         current_money = float(data_items[-2]) + float(data_items[-3])
         print(current_money)
-        print(history)
     print(data_items)
     # 移除空字符串
     data_items = [item for item in data_items if item]
