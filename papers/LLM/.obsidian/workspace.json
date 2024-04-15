@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "e01d4b7e34a7a831",
+    "type": "split",
+    "children": [
+      {
+        "id": "f15f700a5252e1e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a4aeb5ad962ecfd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1097ab342e7e7345",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4e88fca07c8ae53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bb5af283c863a61",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6dc5139dc1b08f08",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "06a11d22ce9f2596",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a157ef59723a48e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba4a9f8493ecc866",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "116cba87dffc4919",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "pdf/2303.11381 MM-ReAct.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "95e1b28599f05856",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "pdf/2303.11381 MM-ReAct.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "24661daae62fa20c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "38e2f2824318244c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "pdf/2303.11381 MM-ReAct.pdf"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "6dc5139dc1b08f08",
+  "lastOpenFiles": [
+    "On the Opportunities and Risks of Foundation Models.md",
+    "Reflexion.md",
+    "Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning.md",
+    "Agentic Reasoning.md",
+    "LoRA.md",
+    "MM-ReAct.md",
+    "pdf/2303.11381 MM-ReAct.pdf",
+    "Gorilla.md",
+    "pdf/2303.11381 MM-REACT.pdf.crdownload",
+    "pdf/2305.15334 Gorilla.pdf",
+    "pdf/2305.15334 Gorilla.pdf.crdownload",
+    "Self-Refine.md",
+    "pdf/2303.11366 Reflexion.pdf",
+    "pdf/2303.11366 Reflexion.pdf.crdownload",
+    "pdf/2303.17651 Self-Refine.pdf",
+    "pdf/2303.17651 Self-Refine.pdf.crdownload",
+    "GPT3.md",
+    "InstructGPT.md",
+    "pdf/Language Models are Few-Shot Learners.pdf",
+    "pdf/2005.14165 Language Models are Few-Shot Learners.pdf"
+  ]
+}

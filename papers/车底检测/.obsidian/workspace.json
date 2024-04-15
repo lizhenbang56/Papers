@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "e629bbb8ba651871",
+    "type": "split",
+    "children": [
+      {
+        "id": "201f2ee132267a6e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb61b63979c5cef8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "车底检查公司.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "288d0fef77fcfada",
+    "type": "split",
+    "children": [
+      {
+        "id": "315bc679ce71e81d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04ebf7c117161bb2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7871a4fe83998638",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "318ff52160312771",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 241.49999618530273
+  },
+  "right": {
+    "id": "f038c58b4b0a8e79",
+    "type": "split",
+    "children": [
+      {
+        "id": "de73bf6aa8bb9935",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97f605388a8c2fc2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "车底检查公司.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "757440c8beecc85f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "车底检查公司.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "879672ce2ed661f6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f89680827d6d6061",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "车底检查公司.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "fb61b63979c5cef8",
+  "lastOpenFiles": [
+    "2023年12月升级版中科院期刊分区.md",
+    "pdf/Machine vision condition monitoring of heavy-axle load railcar structural underframe components.pdf",
+    "pdf/A review of applications of visual inspection technology based on image processing in the railway industry.pdf",
+    "A review of applications of visual inspection technology based on image processing in the railway industry.md",
+    "Machine vision condition monitoring of heavy-axle load railcar structural underframe components.md",
+    "pdf/A review of applications of visual inspection technology based on image processing in the railway industry.pdf.crdownload"
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "8865ff261f7bcf4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "81148437b415490d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48850a54e1a9bc01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "综述.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "096bee08c1cd0d55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Few-Shot Object Detection.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f6cdb29675f30993",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a653e650f09860f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb3b55c71e55e904",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "41088d092d0a6bf2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1ac5a729c78f834d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2347690bb0f10387",
+    "type": "split",
+    "children": [
+      {
+        "id": "c19531cc955122d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c8964384f7d9f89",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Few-Shot Object Detection.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "44ae128b1781d8e4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Few-Shot Object Detection.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e696e59de2e3a45e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "92f509788fb0f660",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Few-Shot Object Detection.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "096bee08c1cd0d55",
+  "lastOpenFiles": [
+    "综述.md",
+    "Few-Shot Object Detection.md",
+    "OVR-CNN.md",
+    "BARON.md",
+    "pdf/2404.04799 Few-Shot Object Detection.pdf",
+    "pdf/2404.04799 Few-Shot Object Detection.pdf.crdownload",
+    "2024-04-09.md",
+    "pdf/2302.13996 Aligning Bag of Regions for Open-Vocabulary Object Detection.pdf",
+    "pdf/2011.10678 Open-Vocabulary Object Detection Using Captions.pdf",
+    "pdf/2011.10678 Open-Vocabulary Object Detection Using Captions.pdf.crdownload",
+    "pdf"
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "08fc028561614af9",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e6c51f4f7b6d55c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8936f5ba7e7d80ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PbE.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "80506df69e7c817a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed24ccdeeca58bc6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eaf7dc75ad5f1e39",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6a1ce6ca07c522a4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ed3b897f8bab14f0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7bf76128273fc5a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f8c0e7acb07348c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2bf7b9768c40d40d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PbE.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "61f8efe3584246e6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PbE.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b26f59d730246a7c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bd502c4141f6d2c2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PbE.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "8936f5ba7e7d80ce",
+  "lastOpenFiles": [
+    "Diffusion Model-Based Image Editing A Survey.md",
+    "pdf/2211.13227 Paint by Example.pdf",
+    "PbE.md",
+    "pdf/2402.17525 Diffusion Model-Based Image Editing A Survey.pdf",
+    "pdf/2402.17525 Diffusion Model-Based Image Editing A Survey.pdf.crdownload",
+    "pdf/2211.13227 Paint by Example.pdf.crdownload",
+    "pdf/arXiv2312_CVPR2024_SmartEdit.pdf",
+    "pdf"
+  ]
+}
