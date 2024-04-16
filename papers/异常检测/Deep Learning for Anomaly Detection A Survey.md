@@ -1,8 +1,9 @@
 ---
-Publish: arXiv
+Publish: arXiv2019
 Year: "2019"
 Month: "01"
 文档链接: https://arxiv.org/pdf/1901.03407.pdf
+创新点: 对广义的异常检测进行综述
 ---
 
 # 0 摘要

@@ -1,5 +1,5 @@
 ---
-Publish: arXiv
+Publish: arXiv2024
 Year: "2024"
 Month: "01"
 标题: "A Survey on Visual Anomaly Detection: Challenge, Approach, and Prospect"

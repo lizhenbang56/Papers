@@ -1,3 +1,9 @@
+---
+Publish: arXiv2024
+创新点: 小样本目标检测综述
+---
+
+
 [[2404.04799 Few-Shot Object Detection.pdf]]
 #### Abstract
 传统的目标检测：想要检测一个新类别，需要该类别的大量训练样本。

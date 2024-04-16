@@ -1,5 +1,5 @@
 ---
-创新点: 使用 Cut-Paste 方法生成异常样本
+创新点: 使用 Cut-Paste 方法生成异常图像
 Publish: ECCV2022
 Year: "2021"
 Month: "09"

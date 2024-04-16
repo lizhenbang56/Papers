@@ -1,5 +1,5 @@
 ---
-Publish: ACM Computing Surveys (CSUR)
+Publish: CSUR2020
 Year: "2020"
 Month: "12"
 文档链接: https://arxiv.org/pdf/2012.02364.pdf

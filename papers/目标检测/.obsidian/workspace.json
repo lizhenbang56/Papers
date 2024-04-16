@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "81148437b415490d",
+        "id": "75e9f746f207c8b2",
         "type": "tabs",
         "children": [
           {
-            "id": "48850a54e1a9bc01",
+            "id": "f3ad6644c9a62ec9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "综述.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "096bee08c1cd0d55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Few-Shot Object Detection.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Few-Shot Object Detection.md",
+                "file": "综述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Few-Shot Object Detection.md",
+                "file": "综述.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Few-Shot Object Detection.md"
+                "file": "综述.md"
               }
             }
           }
@@ -154,16 +141,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "096bee08c1cd0d55",
+  "active": "f3ad6644c9a62ec9",
   "lastOpenFiles": [
+    "MOOD.md",
     "综述.md",
-    "Few-Shot Object Detection.md",
-    "OVR-CNN.md",
+    "PROWL.md",
+    "Few-Shot Object Detection Research Advances and Challenges.md",
+    "pdf/2302.13996 Aligning Bag of Regions for Open-Vocabulary Object Detection.pdf",
     "BARON.md",
+    "OVR-CNN.md",
     "pdf/2404.04799 Few-Shot Object Detection.pdf",
+    "MaSTr1325.md",
+    "MODS.md",
+    "未命名",
     "pdf/2404.04799 Few-Shot Object Detection.pdf.crdownload",
     "2024-04-09.md",
-    "pdf/2302.13996 Aligning Bag of Regions for Open-Vocabulary Object Detection.pdf",
     "pdf/2011.10678 Open-Vocabulary Object Detection Using Captions.pdf",
     "pdf/2011.10678 Open-Vocabulary Object Detection Using Captions.pdf.crdownload",
     "pdf"

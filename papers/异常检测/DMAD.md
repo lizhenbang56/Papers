@@ -1,5 +1,5 @@
 ---
-Publish: arXiv
+Publish: arXiv2024
 监督方式: 有监督
 Year: "2024"
 文档链接: "[[2403.12362 DMAD.pdf]]"

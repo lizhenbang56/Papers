@@ -1,6 +1,6 @@
 ---
 标题: Customizing Visual-Language Foundation Models for Multi-modal Anomaly Detection and Reasoning
-Publish: arXiv
+Publish: arXiv2024
 Year: "2024"
 Month: "03"
 文档链接: https://arxiv.org/pdf/2403.11083.pdf

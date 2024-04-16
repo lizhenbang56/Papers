@@ -2,7 +2,7 @@
 标题: "MambaAD: Exploring State Space Models for Multi-class Unsupervised Anomaly Detection"
 代码: https://lewandofskee.github.io/projects/MambaAD
 Year: "2024"
-Publish: arXiv
+Publish: arXiv2024
 类别数: 多类
 监督方式: 无监督
 创新点: 使用 Mamba 作为解码器

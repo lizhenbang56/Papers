@@ -3,7 +3,7 @@ Year: "2024"
 Month: "01"
 文档链接: "[[arXiv2401_D3AD.pdf]]"
 标题: "D3AD: Dynamic Denoising Diffusion Probabilistic Model for Anomaly Detection"
-Publish: arXiv
+Publish: arXiv2024
 ---
 
 #### D3AD: Dynamic Denoising Diffusion Probabilistic Model for Anomaly Detection
