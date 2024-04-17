@@ -1,5 +1,8 @@
 ---
 论文链接: https://arxiv.org/pdf/2403.18103.pdf
+创新点: 扩散模型综述文章
+Year: "2024"
+Publish: arXiv2024
 ---
 ## Abstract
 

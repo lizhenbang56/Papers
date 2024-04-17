@@ -9,6 +9,7 @@ I-AUROC-MVTecAD单类无监督: "99.8"
 代码: https://github.com/arimousa/DDAD
 Stars: "103"
 P-AUROC-MVTecAD单类无监督: "98.1"
+Publish: arXiv2023
 ---
 ## 摘要
   

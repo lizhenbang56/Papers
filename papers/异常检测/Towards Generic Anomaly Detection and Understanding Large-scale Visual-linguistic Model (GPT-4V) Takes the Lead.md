@@ -6,6 +6,7 @@ Month: "11"
 Stars: "81"
 代码: github.com/caoyunkang/GPT4V-for-Generic-Anomaly-Detection
 不足: 未进行定量评估
+Publish: arXiv2023
 ---
 # 摘要 
 

@@ -3,6 +3,7 @@ Publish: CVPR2023
 Title: "Rethinking Out-of-distribution (OOD) Detection: Masked Image Modeling is All You Need"
 Url: https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Rethinking_Out-of-Distribution_OOD_Detection_Masked_Image_Modeling_Is_All_You_CVPR_2023_paper.pdf
 创新点: 贾佳亚使用 masked image modeling 进行 OOD 二分类
+Year: "2023"
 ---
 ## 摘要
 

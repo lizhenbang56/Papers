@@ -4,6 +4,7 @@ Publish: CVPR2024
 Url: "[[2302.13996 Aligning Bag of Regions for Open-Vocabulary Object Detection.pdf]]"
 Code: https://github.com/wusize/ovdet
 Stars: "158"
+Year: "2024"
 ---
 ```mermaid
 graph LR;
