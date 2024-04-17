@@ -1,4 +1,5 @@
 import pandas as pd
+import matplotlib.pyplot as plt
 pd.options.display.float_format = '{:.2f}'.format
 excel_file = 'money.xlsx'
 xl = pd.ExcelFile(excel_file)
@@ -51,9 +52,10 @@ def merge_df():
     return sorted_df
 
 
-def plot_per_day(daily_expenses):
-    import matplotlib.pyplot as plt
-
+def plot_per_day(daily_expenses, cumsum=False):
+    """
+    绘制每日消费情况图。可选当日消费或累计消费
+    """
     # 缺失日期补零
     all_dates = pd.date_range(start=daily_expenses['交易日期'].min(), end=daily_expenses['交易日期'].max(), freq='D')
     all_dates_df = pd.DataFrame({'交易日期': all_dates})
@@ -67,8 +69,10 @@ def plot_per_day(daily_expenses):
     merged_df['累计消费'] = merged_df['收入/支出金额'].cumsum()
 
     plt.figure(figsize=(10, 6))
-    # plt.plot(merged_df['交易日期'], -1 * merged_df['收入/支出金额'], marker='o', linestyle='-')
-    plt.plot(merged_df['交易日期'], -1 * merged_df['累计消费'], marker='o', linestyle='-')
+    if not cumsum:
+        plt.plot(merged_df['交易日期'], -1 * merged_df['收入/支出金额'], marker='o', linestyle='-')
+    else:
+        plt.plot(merged_df['交易日期'], -1 * merged_df['累计消费'], marker='o', linestyle='-')
     plt.title('Daily Expenses')
     plt.xlabel('Date')
     plt.ylabel('Money')
@@ -79,10 +83,14 @@ def plot_per_day(daily_expenses):
 
 
 def per_day():
+    """
+    绘制每日消费情况图。包括当日消费或累计消费
+    """
     sorted_df = merge_df()
     daily_expenses = sorted_df.groupby('交易日期')['收入/支出金额'].sum().reset_index()
 
-    plot_per_day(daily_expenses)
+    plot_per_day(daily_expenses)  # 绘制每日的当日消费图
+    plot_per_day(daily_expenses, cumsum=True)  # 绘制每日的累计消费图
 
     # 打印每日消费额
     print(daily_expenses)
@@ -104,6 +112,54 @@ def mean_daily():
 
     # 计算日均消费额
     daily_average_expenses = total_expenses / days
-    print(daily_average_expenses)
+    # print(daily_average_expenses)
+
+def cal_balance():
+    balance_20240301 = {'工行': 127596.59, '微信': 2.94}
+    for count in balance_20240301.keys():
+        count_df = df[df['账户']==count] 
+        balance = count_df['收入/支出金额'].cumsum() + balance_20240301[count]
+        count_df.loc[count_df['账户'] == count, 'balance'] = balance.tolist()
+        df_selected = count_df[['交易日期', '收入/支出金额', 'balance']]
+        print(df_selected)
+
+        
+        plt.figure(figsize=(10, 6))
+        plt.plot(range(len(balance)), balance, marker='o', linestyle='-')
+        plt.title('Daily Expenses')
+        plt.xlabel('Date')
+        plt.ylabel('Money')
+        plt.grid(True)
+        plt.xticks(rotation=45)
+
+        for i, txt in zip(range(len(balance)), balance):
+            print(i, txt)
+            plt.annotate(f'{txt:.2f}', (i, txt), textcoords="offset points", xytext=(0,10), ha='center')
+
+        plt.tight_layout()
+        plt.show()
+
+
+def cal_daily_transaction():
+    balance_20240301 = {'工行': 127569.59, '微信': 2.94}
+    for count in balance_20240301.keys():
+        daily_transaction = df[df['账户']==count].groupby('交易日期')['收入/支出金额'].sum().reset_index()
+        daily_transaction_cumsum = daily_transaction['收入/支出金额'].cumsum() + balance_20240301[count]
+
+        plt.figure(figsize=(10, 6))
+        plt.plot(daily_transaction['交易日期'], daily_transaction_cumsum, marker='o', linestyle='-')
+        plt.title('Daily Expenses')
+        plt.xlabel('Date')
+        plt.ylabel('Money')
+        plt.grid(True)
+        plt.xticks(rotation=45)
+
+        # 添加每个数据点的具体金额
+        for i in range(len(daily_transaction)):
+            plt.text(daily_transaction['交易日期'][i], daily_transaction_cumsum[i], f'{daily_transaction_cumsum[i]:.2f}', fontsize=8, ha='center', va='bottom')
+
+        plt.tight_layout()
+        plt.show()
+
 
 per_day()
