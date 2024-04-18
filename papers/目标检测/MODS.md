@@ -3,6 +3,7 @@ Title: MODS – A USV-oriented object detection and obstacle segmentation benchm
 Year: "2021"
 Url: https://arxiv.org/pdf/2105.02359.pdf
 Publish: arXiv2021
+Month: "05"
 ---
 ## 摘要
 

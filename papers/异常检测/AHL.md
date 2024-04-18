@@ -1,9 +1,12 @@
 ---
 Publish: CVPR2024
 Url: https://arxiv.org/pdf/2310.12790.pdf
-创新点: 训练集为大量正常图像和少量异常图像
+创新点: 训练集为大量正常图像和少量异常图像。为图像生成分数。
+Year: "2023"
+Month: "10"
 ---
 - 必须与 DevNet 或 DRA 一起使用。
+- Anomaly Heterogeneity Learning for Open-set Supervised Anomaly Detection
 
 ## 摘要
 
@@ -41,7 +44,7 @@ Url: https://arxiv.org/pdf/2310.12790.pdf
 
 问题陈述：我们假设有一组训练图像和注释 $\{(\omega_i, y_i)\}_{i=1}^N$，其中 ωi ∈ Ω ⊂ R H×W×C 表示具有RGB通道的图像，yi ∈ Y ⊂ {0, 1} 表示图像级别的类别标签，如果 ωi 是异常的则 yi = 1，否则 yi = 0。由于异常的稀缺性，标记的数据通常主要由正常数据组成。
 
-给定一个现有的AD模型 $f(\cdot)$，可以用于提取低维图像特征以构建训练特征集 D = {xi, yi}，其中 xi = f(ωi) ∈ X 表示对应的第i个图像特征，其中 Xn = {x1, x2, ..., xN } 和 Xa = {x1, x2, ..., xM}（N ≫ M）分别表示正常图像和异常图像的特征集，那么我们提出的AHL框架的目标是学习一个异常检测函数 $g : \mathcal{X} \to \mathbb{R}$，能够将来自不同分布的异常图像分配更高的异常分数，而对于正常图像分配较低的异常分数。请注意，在OSAD中，训练异常 Xa 来自已见异常类 S，这只是 C 的一个子集，而 C 在推断期间可能包含更大的异常类集合，例如 S ⊂ C。
+给定一个现有的AD模型 $f(\cdot)$，可以用于提取低维图像特征以构建训练特征集 D = {xi, yi}，其中 $\textbf{x}_i = f(\omega_i) \in \mathcal{X}$ 表示对应的第i个图像特征，其中 $\mathcal{X}_n = \{\textbf{x}_1, \textbf{x}_2, \cdots, \textbf{x}_N \}$ 和 Xa = {x1, x2, ..., xM}（N ≫ M）分别表示正常图像和异常图像的特征集，那么我们提出的AHL框架的目标是学习一个异常检测函数 $g : \mathcal{X} \to \mathbb{R}$，能够将来自不同分布的异常图像分配更高的异常分数，而对于正常图像分配较低的异常分数。请注意，在OSAD中，训练异常 Xa 来自已见异常类 S，这只是 C 的一个子集，而 C 在推断期间可能包含更大的异常类集合，例如 S ⊂ C。
 
 ### 3.1. 我们方法的概述 
 

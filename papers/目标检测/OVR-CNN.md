@@ -1,6 +1,8 @@
 ---
 Publish: arXiv2020
 创新点: 开放词汇目标检测
+Year: "2020"
+Month: "11"
 ---
 - [[2011.10678 Open-Vocabulary Object Detection Using Captions.pdf]]
 - [alirezazareian/ovr-cnn: A new framework for open-vocabulary object detection, based on maskrcnn-benchmark (github.com)](https://github.com/alirezazareian/ovr-cnn)

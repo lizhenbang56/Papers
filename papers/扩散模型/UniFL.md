@@ -4,7 +4,7 @@ Publish: arXiv2024
 Year: "2024"
 Month: "04"
 Title: "UniFL: Improve Stable Diffusion via Unified Feedback Learning"
-创新点: 
+创新点: 扩散模型
 Author: 字节跳动
 ---
 ## 摘要

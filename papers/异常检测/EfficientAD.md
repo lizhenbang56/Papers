@@ -3,6 +3,8 @@ Publish: WACV2024
 Url: https://arxiv.org/pdf/2303.14535.pdf
 Title: "EfficientAD: Accurate Visual Anomaly Detection at Millisecond-Level Latencies"
 创新点: 速度快
+Year: "2023"
+Month: "03"
 ---
 ## 摘要 
 

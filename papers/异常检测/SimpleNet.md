@@ -13,6 +13,8 @@ P-AUROC-MVTecAD单类无监督: "98.1"
 方法类别: 基于合成
 类别数: 单类
 ---
+![[SimpleNet.pdf]]
+
 ## 摘要
 
 我们提出了一种简单且适用的网络（称为SimpleNet），用于检测和定位异常。SimpleNet由四个组件组成：
@@ -65,4 +67,4 @@ graph LR;
 
 ### Anomaly localization on MVTec AD
 
-异常定位性能通过像素级AUROC进行衡量，我们将其标记为**P-AUROC**。与最先进方法的比较结果如表1所示。SimpleNet在MVTec AD上实现了最佳的异常检测性能，**像素级AUROC达到了98.1%**，同时在物体类别上达到了新的98.4%的P-AUROC的SOTA。SimpleNet在15个类别中有4个类别的得分最高。我们在图8中展示了异常定位的代表性样本。
+异常定位性能通过像素级AUROC进行衡量，我们将其标记为**P-AUROC**。与最先进方法的比较结果如表1所示。SimpleNet在MVTec AD上实现了最佳的异常检测性能，**像素级AUROC达到了98.1%**，同时在物体类别上达到了新的98.4%的P-AUROC的SOTA。SimpleNet在15个类别中有4个类别的得分最高。我们在图8中展示了异常定位的代表性样本。![[异常检测/Untitled Diagram.svg]]

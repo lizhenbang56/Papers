@@ -8,6 +8,7 @@ Month: "03"
 文档链接: https://arxiv.org/pdf/2403.06495.pdf
 I-AUROC-MVTecAD-8shot: "97.7"
 ---
+- Toward Generalist Anomaly Detection via In-context Residual Learning with Few-shot Sample Prompts
 #### 术语对译
 - In-Context Learning：上下文学习
 - In-Context Prompts：上下文提示

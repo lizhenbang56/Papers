@@ -1,3 +1,10 @@
+---
+Publish: CVPR2024
+创新点: CLIP
+Year: "2024"
+Month: "03"
+---
+
 - [[Long-Tailed Anomaly Detection with Learnable Class Names.pdf]]
 - CVPR2024
 - Long-Tailed Anomaly Detection with Learnable Class Names

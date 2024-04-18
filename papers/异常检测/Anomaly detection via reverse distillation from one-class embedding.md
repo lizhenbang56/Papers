@@ -3,6 +3,7 @@ Url: https://arxiv.org/pdf/2201.10703.pdf
 Year: "2022"
 Publish: CVPR2022
 I-AUROC-MVTecAD单类无监督: "98.5"
+Month: "01"
 ---
 - 当查询为异常样本时，期望**学生模型** $D$ 生成与**教师模型** $E$ 非常不同的表示
 - $D$ 在训练期间旨在模仿 $E$ 的行为

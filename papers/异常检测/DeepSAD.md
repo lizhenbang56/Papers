@@ -4,6 +4,7 @@ Publish: ICLR2020
 Year: "2019"
 创新点: 提出半监督异常检测任务
 Title: Deep semi-supervised anomaly detection
+Month: "06"
 ---
 ## 摘要 
 

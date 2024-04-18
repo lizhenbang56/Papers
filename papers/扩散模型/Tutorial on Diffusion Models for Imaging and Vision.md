@@ -3,6 +3,7 @@
 创新点: 扩散模型综述文章
 Year: "2024"
 Publish: arXiv2024
+Month: "03"
 ---
 ## Abstract
 

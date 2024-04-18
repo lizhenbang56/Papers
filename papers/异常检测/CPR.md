@@ -2,6 +2,8 @@
 Title: "Target before Shooting: Accurate Anomaly Detection and Localization under One Millisecond via Cascade Patch Retrieval"
 Publish: arXiv2023
 Url: https://arxiv.org/pdf/2308.06748.pdf
+Year: "2023"
+Month: "08"
 ---
 ## 摘要
 

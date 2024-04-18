@@ -4,6 +4,7 @@ Year: "2024"
 创新点: 使用扩散模型BLDM生成异常样本
 Title: A Novel Approach to Industrial Defect Generation through Blended Latent Diffusion Model with Online Adaptation
 I-AUROC-MVTecAD单类无监督: "?"
+Month: "02"
 ---
 
 
