@@ -4,6 +4,8 @@ Url: https://arxiv.org/pdf/2310.12790.pdf
 创新点: 训练集为大量正常图像和少量异常图像。为图像生成分数。
 Year: "2023"
 Month: "10"
+代码: https://github.com/mala-lab/AHL
+Stars: "11"
 ---
 - 必须与 DevNet 或 DRA 一起使用。
 - Anomaly Heterogeneity Learning for Open-set Supervised Anomaly Detection

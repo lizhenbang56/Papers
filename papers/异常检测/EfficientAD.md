@@ -5,6 +5,8 @@ Title: "EfficientAD: Accurate Visual Anomaly Detection at Millisecond-Level Late
 创新点: 速度快
 Year: "2023"
 Month: "03"
+Stars: "184"
+代码: https://github.com/nelson1425/EfficientAD
 ---
 ## 摘要 
 

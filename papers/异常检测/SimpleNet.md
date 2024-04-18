@@ -12,6 +12,7 @@ I-AUROC-MVTecAD单类无监督: "99.6"
 P-AUROC-MVTecAD单类无监督: "98.1"
 方法类别: 基于合成
 类别数: 单类
+Stars: "335"
 ---
 ![[SimpleNet.pdf]]
 

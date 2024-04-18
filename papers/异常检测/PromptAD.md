@@ -3,7 +3,7 @@ Publish: CVPR2024
 Url: https://arxiv.org/pdf/2404.05231.pdf
 Year: "2024"
 Title: "PromptAD: Learning Prompts with only Normal Samples for Few-Shot Anomaly Detection"
-创新点: CLIP
+创新点: CLIP，小样本
 Month: "04"
 ---
 - 单类，无监督，小样本

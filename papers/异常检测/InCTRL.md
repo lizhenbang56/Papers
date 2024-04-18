@@ -7,6 +7,7 @@ Month: "03"
 创新点: 基于CLIP的小样本上下文学习
 文档链接: https://arxiv.org/pdf/2403.06495.pdf
 I-AUROC-MVTecAD-8shot: "97.7"
+Stars: "54"
 ---
 - Toward Generalist Anomaly Detection via In-context Residual Learning with Few-shot Sample Prompts
 #### 术语对译

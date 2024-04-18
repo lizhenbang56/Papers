@@ -6,7 +6,7 @@ Month: "08"
 代码: https://github.com/CASIA-IVA-Lab/AnomalyGPT
 Stars: "523"
 I-AUROC-MVTecAD-4shot: "96.3"
-创新点: 基于多模态大模型和上下文学习进行异常检测
+创新点: 基于多模态大模型和上下文学习进行异常检测（会不会计算效率太低了？）
 ---
 ```mermaid
 graph LR;

@@ -5,6 +5,7 @@ Year: "2024"
 Month: "03"
 文档链接: https://arxiv.org/pdf/2403.11083.pdf
 I-AUROC-MVTecAD-0shot: "82.9"
+创新点: 多模态大模型
 ---
 
 [[2403.11083 Customizing Visual-Language Foundation Models for Multi-modal Anomaly Detection and Reasoning.pdf]]
