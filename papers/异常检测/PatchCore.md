@@ -4,7 +4,7 @@ Publish: CVPR2022
 Year: "2021"
 Month: "06"
 代码: https://github.com/amazon-science/patchcore-inspection
-Stars: "619"
+Stars: "620"
 I-AUROC-MVTecAD单类无监督: "99.6"
 创新点: 比较测试图像补丁特征和训练数据集补丁特征集合的相似度
 ---
