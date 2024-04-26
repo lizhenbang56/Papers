@@ -6,7 +6,7 @@ Url: https://arxiv.org/pdf/2112.03126.pdf
 代码: https://github.com/yandex-research/ddpm-segmentation
 Author: Yandex
 Stars: "615"
-创新点: 用生成模型进行图像分割
+创新点: 用生成模型生成的图像进行图像分割
 ---
 ## 摘要
 
