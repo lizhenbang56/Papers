@@ -1,0 +1,11 @@
+- https://www.beijing.gov.cn/ 北京市人民政府
+	- https://www.beijing.gov.cn/gongkai/ 政务公开
+		- 【北京市人民政府公报】 https://www.beijing.gov.cn/so/zcdh/zfgbHistory 政务公开>政策公开>政府公报>公报查询
+			- 未找到【京房公积金发〔2023〕6号 北京住房公积金管理中心关于进一步优化租房提取业务的通知】
+	- https://www.beijing.gov.cn/zhengce/zhengcefagui/ 政策>政策法规
+		- 
+- https://gjj.beijing.gov.cn/ 北京住房公积金管理中心
+	- https://gjj.beijing.gov.cn/web/zwgk61/index.html 政务公开
+		- https://gjj.beijing.gov.cn/web/zwgk61/_300587/_300704/zfgjjgjzc/index.html 中心文件
+			- https://gjj.beijing.gov.cn/web/zwgk61/_300587/_300704/zfgjjgjzc/326124169/index.html 关于进一步优化租房提取业务的通知
+		- 
