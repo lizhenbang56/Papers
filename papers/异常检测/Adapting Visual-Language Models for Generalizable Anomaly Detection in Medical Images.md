@@ -5,6 +5,7 @@ Month: "03"
 Url: https://arxiv.org/pdf/2403.12570.pdf
 创新点: CLIP
 ---
+![[Pasted image 20240429105529.png]]
 ```mermaid
 graph LR;
 	1张查询图像 --CLIP--> ImageFeature;
