@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"72d87787a04b6d17","x":-360,"y":-120,"width":160,"height":60,"type":"text","text":"[[确定软件功能]]"},
-		{"id":"8a3bf5f7b1d176cb","x":-140,"y":-120,"width":250,"height":60,"type":"text","text":"[[开发UI界面]]"}
-	],
-	"edges":[
-		{"id":"00f00a021cec97db","fromNode":"72d87787a04b6d17","fromSide":"right","toNode":"8a3bf5f7b1d176cb","toSide":"left"}
-	]
-}
