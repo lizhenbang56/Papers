@@ -1,3 +1,5 @@
 *.pdf
+*.epub
+*.mobi
 */.obsidian
 */*/.obsidian
