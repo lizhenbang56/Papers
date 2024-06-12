@@ -1,0 +1,12 @@
+{
+	"bizSerialNo" : "12345678901234567890123456789000",
+	"costTime" : "24",
+	"endTime" : "20240612063943571",
+	"errCode" : "000",
+	"photoAuthResult" : "1",
+	"photoCompareScore" : "0.500000",
+	"startTime" : "20240612063943546",
+	"thresholdE3" : "0.8",
+	"thresholdE4" : "0.9",
+	"workerTitle" : "test"
+}

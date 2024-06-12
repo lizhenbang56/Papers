@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample>
+  <responseData class="java.lang.String">{
+	&quot;bizSerialNo&quot; : &quot;12345678901234567890123456789000&quot;,
+	&quot;costTime&quot; : &quot;26&quot;,
+	&quot;endTime&quot; : &quot;20240612003439108&quot;,
+	&quot;errCode&quot; : &quot;000&quot;,
+	&quot;faceEngineName&quot; : &quot;zd&quot;,
+	&quot;faceEngineVersion&quot; : &quot;0.1&quot;,
+	&quot;photoAuthResult&quot; : &quot;0&quot;,
+	&quot;photoCompareScore&quot; : &quot;0.997252&quot;,
+	&quot;startTime&quot; : &quot;20240612003439082&quot;,
+	&quot;thresholdE3&quot; : &quot;0.8&quot;,
+	&quot;thresholdE4&quot; : &quot;0.9&quot;,
+	&quot;workerTitle&quot; : &quot;test&quot;
+}</responseData>
+</httpSample>
+<httpSample>
+  <responseData class="java.lang.String">{
+	&quot;bizSerialNo&quot; : &quot;12345678901234567890123456789001&quot;,
+	&quot;costTime&quot; : &quot;23&quot;,
+	&quot;endTime&quot; : &quot;20240612003439149&quot;,
+	&quot;errCode&quot; : &quot;000&quot;,
+	&quot;faceEngineName&quot; : &quot;zd&quot;,
+	&quot;faceEngineVersion&quot; : &quot;0.1&quot;,
+	&quot;photoAuthResult&quot; : &quot;0&quot;,
+	&quot;photoCompareScore&quot; : &quot;0.997252&quot;,
+	&quot;startTime&quot; : &quot;20240612003439126&quot;,
+	&quot;thresholdE3&quot; : &quot;0.8&quot;,
+	&quot;thresholdE4&quot; : &quot;0.9&quot;,
+	&quot;workerTitle&quot; : &quot;test&quot;
+}</responseData>
+</httpSample>
+<httpSample>
+  <responseData class="java.lang.String">{
+	&quot;bizSerialNo&quot; : &quot;12345678901234567890123456789002&quot;,
+	&quot;costTime&quot; : &quot;23&quot;,
+	&quot;endTime&quot; : &quot;20240612003439228&quot;,
+	&quot;errCode&quot; : &quot;000&quot;,
+	&quot;faceEngineName&quot; : &quot;zd&quot;,
+	&quot;faceEngineVersion&quot; : &quot;0.1&quot;,
+	&quot;photoAuthResult&quot; : &quot;0&quot;,
+	&quot;photoCompareScore&quot; : &quot;0.998337&quot;,
+	&quot;startTime&quot; : &quot;20240612003439204&quot;,
+	&quot;thresholdE3&quot; : &quot;0.8&quot;,
+	&quot;thresholdE4&quot; : &quot;0.9&quot;,
+	&quot;workerTitle&quot; : &quot;test&quot;
+}</responseData>
+</httpSample>
+<httpSample>
+  <responseData class="java.lang.String">{
+	&quot;bizSerialNo&quot; : &quot;12345678901234567890123456789003&quot;,
+	&quot;costTime&quot; : &quot;0&quot;,
+	&quot;endTime&quot; : &quot;20240612003440259&quot;,
+	&quot;errCode&quot; : &quot;023&quot;,
+	&quot;faceEngineName&quot; : &quot;zd&quot;,
+	&quot;faceEngineVersion&quot; : &quot;0.1&quot;,
+	&quot;photoAuthResult&quot; : &quot;1&quot;,
+	&quot;photoCompareScore&quot; : &quot;0.000000&quot;,
+	&quot;startTime&quot; : &quot;20240612003440259&quot;,
+	&quot;thresholdE3&quot; : &quot;0.8&quot;,
+	&quot;thresholdE4&quot; : &quot;0.9&quot;,
+	&quot;workerTitle&quot; : &quot;test&quot;
+}</responseData>
+</httpSample>
+<httpSample>
+  <responseData class="java.lang.String">{
+	&quot;bizSerialNo&quot; : &quot;12345678901234567890123456789004&quot;,
+	&quot;costTime&quot; : &quot;26&quot;,
+	&quot;endTime&quot; : &quot;20240612003440483&quot;,
+	&quot;errCode&quot; : &quot;028&quot;,
+	&quot;faceEngineName&quot; : &quot;zd&quot;,
+	&quot;faceEngineVersion&quot; : &quot;0.1&quot;,
+	&quot;photoAuthResult&quot; : &quot;1&quot;,
+	&quot;photoCompareScore&quot; : &quot;0.000000&quot;,
+	&quot;startTime&quot; : &quot;20240612003440457&quot;,
+	&quot;thresholdE3&quot; : &quot;0.8&quot;,
+	&quot;thresholdE4&quot; : &quot;0.9&quot;,
+	&quot;workerTitle&quot; : &quot;test&quot;
+}</responseData>
+</httpSample>
+<httpSample>
+  <responseData class="java.lang.String">{
+	&quot;bizSerialNo&quot; : &quot;12345678901234567890123456789005&quot;,
+	&quot;costTime&quot; : &quot;8&quot;,
+	&quot;endTime&quot; : &quot;20240612003440552&quot;,
+	&quot;errCode&quot; : &quot;005&quot;,
+	&quot;faceEngineName&quot; : &quot;zd&quot;,
+	&quot;faceEngineVersion&quot; : &quot;0.1&quot;,
+	&quot;photoAuthResult&quot; : &quot;1&quot;,
+	&quot;photoCompareScore&quot; : &quot;0.000000&quot;,
+	&quot;startTime&quot; : &quot;20240612003440544&quot;,
+	&quot;thresholdE3&quot; : &quot;0.8&quot;,
+	&quot;thresholdE4&quot; : &quot;0.9&quot;,
+	&quot;workerTitle&quot; : &quot;test&quot;
+}</responseData>
+</httpSample>
+<httpSample>
+  <responseData class="java.lang.String">{
+	&quot;bizSerialNo&quot; : &quot;12345678901234567890123456789006&quot;,
+	&quot;costTime&quot; : &quot;23&quot;,
+	&quot;endTime&quot; : &quot;20240612003440706&quot;,
+	&quot;errCode&quot; : &quot;000&quot;,
+	&quot;faceEngineName&quot; : &quot;zd&quot;,
+	&quot;faceEngineVersion&quot; : &quot;0.1&quot;,
+	&quot;photoAuthResult&quot; : &quot;1&quot;,
+	&quot;photoCompareScore&quot; : &quot;0.518044&quot;,
+	&quot;startTime&quot; : &quot;20240612003440683&quot;,
+	&quot;thresholdE3&quot; : &quot;0.8&quot;,
+	&quot;thresholdE4&quot; : &quot;0.9&quot;,
+	&quot;workerTitle&quot; : &quot;test&quot;
+}</responseData>
+</httpSample>
+<httpSample>
+  <responseData class="java.lang.String">{
+	&quot;bizSerialNo&quot; : &quot;12345678901234567890123456789007&quot;,
+	&quot;costTime&quot; : &quot;44&quot;,
+	&quot;endTime&quot; : &quot;20240612003440828&quot;,
+	&quot;errCode&quot; : &quot;000&quot;,
+	&quot;faceEngineName&quot; : &quot;zd&quot;,
+	&quot;faceEngineVersion&quot; : &quot;0.1&quot;,
+	&quot;photoAuthResult&quot; : &quot;1&quot;,
+	&quot;photoCompareScore&quot; : &quot;0.456282&quot;,
+	&quot;startTime&quot; : &quot;20240612003440783&quot;,
+	&quot;thresholdE3&quot; : &quot;0.8&quot;,
+	&quot;thresholdE4&quot; : &quot;0.9&quot;,
+	&quot;workerTitle&quot; : &quot;test&quot;
+}</responseData>
+</httpSample>
+<httpSample>
+  <responseData class="java.lang.String">{
+	&quot;bizSerialNo&quot; : &quot;12345678901234567890123456789008&quot;,
+	&quot;costTime&quot; : &quot;26&quot;,
+	&quot;endTime&quot; : &quot;20240612003440904&quot;,
+	&quot;errCode&quot; : &quot;028&quot;,
+	&quot;faceEngineName&quot; : &quot;zd&quot;,
+	&quot;faceEngineVersion&quot; : &quot;0.1&quot;,
+	&quot;photoAuthResult&quot; : &quot;1&quot;,
+	&quot;photoCompareScore&quot; : &quot;0.000000&quot;,
+	&quot;startTime&quot; : &quot;20240612003440877&quot;,
+	&quot;thresholdE3&quot; : &quot;0.8&quot;,
+	&quot;thresholdE4&quot; : &quot;0.9&quot;,
+	&quot;workerTitle&quot; : &quot;test&quot;
+}</responseData>
+</httpSample>
+<httpSample>
+  <responseData class="java.lang.String">{
+	&quot;bizSerialNo&quot; : &quot;12345678901234567890123456789009&quot;,
+	&quot;costTime&quot; : &quot;26&quot;,
+	&quot;endTime&quot; : &quot;20240612003440981&quot;,
+	&quot;errCode&quot; : &quot;028&quot;,
+	&quot;faceEngineName&quot; : &quot;zd&quot;,
+	&quot;faceEngineVersion&quot; : &quot;0.1&quot;,
+	&quot;photoAuthResult&quot; : &quot;1&quot;,
+	&quot;photoCompareScore&quot; : &quot;0.000000&quot;,
+	&quot;startTime&quot; : &quot;20240612003440954&quot;,
+	&quot;thresholdE3&quot; : &quot;0.8&quot;,
+	&quot;thresholdE4&quot; : &quot;0.9&quot;,
+	&quot;workerTitle&quot; : &quot;test&quot;
+}</responseData>
+</httpSample>
+<httpSample>
+  <responseData class="java.lang.String">{
+	&quot;bizSerialNo&quot; : &quot;12345678901234567890123456789010&quot;,
+	&quot;costTime&quot; : &quot;25&quot;,
+	&quot;endTime&quot; : &quot;20240612003441049&quot;,
+	&quot;errCode&quot; : &quot;000&quot;,
+	&quot;faceEngineName&quot; : &quot;zd&quot;,
+	&quot;faceEngineVersion&quot; : &quot;0.1&quot;,
+	&quot;photoAuthResult&quot; : &quot;1&quot;,
+	&quot;photoCompareScore&quot; : &quot;0.693868&quot;,
+	&quot;startTime&quot; : &quot;20240612003441023&quot;,
+	&quot;thresholdE3&quot; : &quot;0.8&quot;,
+	&quot;thresholdE4&quot; : &quot;0.9&quot;,
+	&quot;workerTitle&quot; : &quot;test&quot;
+}</responseData>
+</httpSample>
+<httpSample>
+  <responseData class="java.lang.String">{
+	&quot;bizSerialNo&quot; : &quot;12345678901234567890123456789011&quot;,
+	&quot;costTime&quot; : &quot;26&quot;,
+	&quot;endTime&quot; : &quot;20240612003441137&quot;,
+	&quot;errCode&quot; : &quot;028&quot;,
+	&quot;faceEngineName&quot; : &quot;zd&quot;,
+	&quot;faceEngineVersion&quot; : &quot;0.1&quot;,
+	&quot;photoAuthResult&quot; : &quot;1&quot;,
+	&quot;photoCompareScore&quot; : &quot;0.000000&quot;,
+	&quot;startTime&quot; : &quot;20240612003441110&quot;,
+	&quot;thresholdE3&quot; : &quot;0.8&quot;,
+	&quot;thresholdE4&quot; : &quot;0.9&quot;,
+	&quot;workerTitle&quot; : &quot;test&quot;
+}</responseData>
+</httpSample>
+<httpSample>
+  <responseData class="java.lang.String">{
+	&quot;bizSerialNo&quot; : &quot;12345678901234567890123456789012&quot;,
+	&quot;costTime&quot; : &quot;26&quot;,
+	&quot;endTime&quot; : &quot;20240612003441223&quot;,
+	&quot;errCode&quot; : &quot;028&quot;,
+	&quot;faceEngineName&quot; : &quot;zd&quot;,
+	&quot;faceEngineVersion&quot; : &quot;0.1&quot;,
+	&quot;photoAuthResult&quot; : &quot;1&quot;,
+	&quot;photoCompareScore&quot; : &quot;0.000000&quot;,
+	&quot;startTime&quot; : &quot;20240612003441197&quot;,
+	&quot;thresholdE3&quot; : &quot;0.8&quot;,
+	&quot;thresholdE4&quot; : &quot;0.9&quot;,
+	&quot;workerTitle&quot; : &quot;test&quot;
+}</responseData>
+</httpSample>
+<httpSample>
+  <responseData class="java.lang.String">{
+	&quot;bizSerialNo&quot; : &quot;12345678901234567890123456789013&quot;,
+	&quot;costTime&quot; : &quot;24&quot;,
+	&quot;endTime&quot; : &quot;20240612003441342&quot;,
+	&quot;errCode&quot; : &quot;000&quot;,
+	&quot;faceEngineName&quot; : &quot;zd&quot;,
+	&quot;faceEngineVersion&quot; : &quot;0.1&quot;,
+	&quot;photoAuthResult&quot; : &quot;1&quot;,
+	&quot;photoCompareScore&quot; : &quot;0.482370&quot;,
+	&quot;startTime&quot; : &quot;20240612003441317&quot;,
+	&quot;thresholdE3&quot; : &quot;0.8&quot;,
+	&quot;thresholdE4&quot; : &quot;0.9&quot;,
+	&quot;workerTitle&quot; : &quot;test&quot;
+}</responseData>
+</httpSample>
+<httpSample>
+  <responseData class="java.lang.String">{
+	&quot;bizSerialNo&quot; : &quot;12345678901234567890123456789014&quot;,
+	&quot;costTime&quot; : &quot;21&quot;,
+	&quot;endTime&quot; : &quot;20240612003441380&quot;,
+	&quot;errCode&quot; : &quot;000&quot;,
+	&quot;faceEngineName&quot; : &quot;zd&quot;,
+	&quot;faceEngineVersion&quot; : &quot;0.1&quot;,
+	&quot;photoAuthResult&quot; : &quot;1&quot;,
+	&quot;photoCompareScore&quot; : &quot;0.716460&quot;,
+	&quot;startTime&quot; : &quot;20240612003441358&quot;,
+	&quot;thresholdE3&quot; : &quot;0.8&quot;,
+	&quot;thresholdE4&quot; : &quot;0.9&quot;,
+	&quot;workerTitle&quot; : &quot;test&quot;
+}</responseData>
+</httpSample>
+<httpSample>
+  <responseData class="java.lang.String">{
+	&quot;bizSerialNo&quot; : &quot;12345678901234567890123456789015&quot;,
+	&quot;costTime&quot; : &quot;21&quot;,
+	&quot;endTime&quot; : &quot;20240612003441419&quot;,
+	&quot;errCode&quot; : &quot;000&quot;,
+	&quot;faceEngineName&quot; : &quot;zd&quot;,
+	&quot;faceEngineVersion&quot; : &quot;0.1&quot;,
+	&quot;photoAuthResult&quot; : &quot;0&quot;,
+	&quot;photoCompareScore&quot; : &quot;0.941753&quot;,
+	&quot;startTime&quot; : &quot;20240612003441397&quot;,
+	&quot;thresholdE3&quot; : &quot;0.8&quot;,
+	&quot;thresholdE4&quot; : &quot;0.9&quot;,
+	&quot;workerTitle&quot; : &quot;test&quot;
+}</responseData>
+</httpSample>
+<httpSample>
+  <responseData class="java.lang.String">{
+	&quot;bizSerialNo&quot; : &quot;12345678901234567890123456789016&quot;,
+	&quot;costTime&quot; : &quot;25&quot;,
+	&quot;endTime&quot; : &quot;20240612003441494&quot;,
+	&quot;errCode&quot; : &quot;028&quot;,
+	&quot;faceEngineName&quot; : &quot;zd&quot;,
+	&quot;faceEngineVersion&quot; : &quot;0.1&quot;,
+	&quot;photoAuthResult&quot; : &quot;1&quot;,
+	&quot;photoCompareScore&quot; : &quot;0.000000&quot;,
+	&quot;startTime&quot; : &quot;20240612003441469&quot;,
+	&quot;thresholdE3&quot; : &quot;0.8&quot;,
+	&quot;thresholdE4&quot; : &quot;0.9&quot;,
+	&quot;workerTitle&quot; : &quot;test&quot;
+}</responseData>
+</httpSample>
+<httpSample>
+  <responseData class="java.lang.String">{
+	&quot;bizSerialNo&quot; : &quot;12345678901234567890123456789017&quot;,
+	&quot;costTime&quot; : &quot;23&quot;,
+	&quot;endTime&quot; : &quot;20240612003441550&quot;,
+	&quot;errCode&quot; : &quot;000&quot;,
+	&quot;faceEngineName&quot; : &quot;zd&quot;,
+	&quot;faceEngineVersion&quot; : &quot;0.1&quot;,
+	&quot;photoAuthResult&quot; : &quot;1&quot;,
+	&quot;photoCompareScore&quot; : &quot;0.537035&quot;,
+	&quot;startTime&quot; : &quot;20240612003441527&quot;,
+	&quot;thresholdE3&quot; : &quot;0.8&quot;,
+	&quot;thresholdE4&quot; : &quot;0.9&quot;,
+	&quot;workerTitle&quot; : &quot;test&quot;
+}</responseData>
+</httpSample>
+<httpSample>
+  <responseData class="java.lang.String">{
+	&quot;bizSerialNo&quot; : &quot;12345678901234567890123456789018&quot;,
+	&quot;costTime&quot; : &quot;8&quot;,
+	&quot;endTime&quot; : &quot;20240612003441619&quot;,
+	&quot;errCode&quot; : &quot;005&quot;,
+	&quot;faceEngineName&quot; : &quot;zd&quot;,
+	&quot;faceEngineVersion&quot; : &quot;0.1&quot;,
+	&quot;photoAuthResult&quot; : &quot;1&quot;,
+	&quot;photoCompareScore&quot; : &quot;0.000000&quot;,
+	&quot;startTime&quot; : &quot;20240612003441611&quot;,
+	&quot;thresholdE3&quot; : &quot;0.8&quot;,
+	&quot;thresholdE4&quot; : &quot;0.9&quot;,
+	&quot;workerTitle&quot; : &quot;test&quot;
+}</responseData>
+</httpSample>
+<httpSample>
+  <responseData class="java.lang.String">{
+	&quot;bizSerialNo&quot; : &quot;12345678901234567890123456789019&quot;,
+	&quot;costTime&quot; : &quot;7&quot;,
+	&quot;endTime&quot; : &quot;20240612003441654&quot;,
+	&quot;errCode&quot; : &quot;005&quot;,
+	&quot;faceEngineName&quot; : &quot;zd&quot;,
+	&quot;faceEngineVersion&quot; : &quot;0.1&quot;,
+	&quot;photoAuthResult&quot; : &quot;1&quot;,
+	&quot;photoCompareScore&quot; : &quot;0.000000&quot;,
+	&quot;startTime&quot; : &quot;20240612003441647&quot;,
+	&quot;thresholdE3&quot; : &quot;0.8&quot;,
+	&quot;thresholdE4&quot; : &quot;0.9&quot;,
+	&quot;workerTitle&quot; : &quot;test&quot;
+}</responseData>
+</httpSample>
+
+</testResults>
