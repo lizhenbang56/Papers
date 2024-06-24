@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"b43b0e4d33bc23a2","type":"text","text":"遗忘","x":360,"y":-220,"width":120,"height":60},
+		{"id":"8243033e9688aa0d","type":"text","text":"痛苦","x":340,"y":420,"width":140,"height":60},
+		{"id":"d56cf6fe2696aa42","type":"text","text":"记忆","x":-700,"y":420,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"19e3b6f4612c6947","fromNode":"8243033e9688aa0d","fromSide":"top","toNode":"b43b0e4d33bc23a2","toSide":"bottom","toEnd":"none","label":"【名词】及其他多种过失，遗漏和错误的最后的目的。对于印象和经验的 #遗忘 ，比对于【名词】的遗忘更能明显地表现出一种避免不愉快的倾向。"},
+		{"id":"009aa6c5c545a27b","fromNode":"d56cf6fe2696aa42","fromSide":"right","toNode":"8243033e9688aa0d","toSide":"left","label":"和痛苦情感有关的事物，回忆便将引起痛苦，所以记忆方面便反对这种事物的回忆。这个避免痛苦的倾向，即导致遗忘。"}
+	]
+}

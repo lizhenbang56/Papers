@@ -1,0 +1,4 @@
+- 在浏览器访问 http://localhost:8080
+- 用户名：admin 密码：admin
+- 配置数据源：Data sources->Add data source -> Prometheus
+- Import dashboard -> 11074
